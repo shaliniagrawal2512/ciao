@@ -23,8 +23,9 @@ import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
-import profile2 from '../assets/profile.png';
-import profile from '../assets/profile2.png';
+import profile2 from '../assets/profile2.jpeg';
+import profile from '../assets/profile.jpeg';
+import profile3 from '../assets/profile3.jpeg';
 
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
@@ -71,4 +72,6 @@ export default {
   nb,
   skype,
   spotify,
+  profile2,
+  profile3
 };

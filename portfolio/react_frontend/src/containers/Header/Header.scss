@@ -158,10 +158,12 @@
 
     .app__header-img {
         position: absolute;
+        object-fit: cover;
         flex: center;
-        z-index: 1;
-        width: 60%;
-        height: 60%;
+        z-index: 2;
+        width: 65%;
+        height: 65%;
+        border-radius: 100%;
     }
 
     @media screen and (max-width: 1200px) {
